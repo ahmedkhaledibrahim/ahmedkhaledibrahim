@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-Stack developer (.NET - Flutter) at Misr University of Science and Technology
+<h2>Software Developer (.NET - Flutter)<h2/>
+Graduated from Helwan University
+Currently working at Misr University for Science & Technology 
 
 
 ## 🌐 Socials:
